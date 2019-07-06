@@ -13,7 +13,7 @@ In 3 simple steps, we are going to setup our serverless backup automation,
 - **Step 2** - Configure Lambda Triggers - Cloudwatch Events
 - **Step 3** - Verify EBS Snapshots in `EC2 Dashboard`
 
-![Fig : Automated-Backup](https://www.github.com/vamsikrishna2421/serverless-ebs-backup/master/images/Serverless-Backup.jpg)
+![Fig : Automated-Backup](https://raw.githubusercontent.com/vamsikrishna2421/serverless-ebs-backup/master/images/Serverless-Backup.jpg)
 
 We will need the following pre-requisites to successfully complete this activity,
 ## Pre-Requisities
